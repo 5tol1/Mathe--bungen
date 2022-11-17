@@ -1,0 +1,23 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+#begruesung {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 75px;
+    font-weight: bolder;
+}
+
+#bild {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    width: 700px;
+    height: 500px;
+}

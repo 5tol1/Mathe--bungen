@@ -1,0 +1,44 @@
+main {
+    color: white;
+}
+
+#ueberschrift {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 75px;
+    font-weight: bolder;
+}
+
+#startbtn {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+#aufgabestellung {
+    color: white;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+
+h2 {
+    font-size: 60px;
+    color: white;
+}
+
+#counterfield {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    font-size: 30px;
+}
+
+#resetbtn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
